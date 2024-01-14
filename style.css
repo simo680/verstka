@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 360px;
+}
+
+header {
+  background-color: #ff0095;
+  width: 360px;
+  padding: 24px 20px;
+  gap: 8px;
+}
+
+main {
+  padding: 20px 0 56px 20px;
+}
+
+h1 {
+  color: #141414;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 16px;
+}
+
+.main-text {
+  color: #6c6c6c;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 135%;
+  width: 320px;
+}
+
+a {
+  color: #6c6c6c;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 135%;
+  text-decoration-line: underline;
+}
+
+.sad-dude {
+  background-repeat: no-repeat;
+  background-position: cover;
+  margin: 20px 0 17px 0;
+}
+
+.text {
+  width: 320px;
+  color: #141414;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 135%;
+}
+
+footer {
+  width: 360px;
+  padding: 20px;
+  gap: 8px;
+  background-color: #ff0095;
+  color: #f5f5f5;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 125%;
+}
