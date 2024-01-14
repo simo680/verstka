@@ -47,6 +47,10 @@ a {
   text-decoration-line: underline;
 }
 
+.black-link {
+       color: #141414;
+}
+
 .sad-dude {
   background-repeat: no-repeat;
   background-position: cover;
