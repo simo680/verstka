@@ -9,6 +9,10 @@ body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
+.img-header {
+  margin-bottom: 8px;
+}
+
 header {
   background-color: #ff0095;
   width: 360px;
@@ -18,9 +22,7 @@ header {
 
 main {
   padding: 20px 0 56px 20px;
-} 
-
-
+}
 
 h1 {
   color: #141414;
@@ -51,7 +53,7 @@ a {
 }
 
 .black-link {
-       color: #141414;
+  color: #141414;
 }
 
 .sad-dude {
